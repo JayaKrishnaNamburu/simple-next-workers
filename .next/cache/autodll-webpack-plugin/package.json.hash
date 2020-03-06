@@ -1,0 +1,1 @@
+{"name":"simple-next","version":"1.0.0","main":"index.js","license":"MIT","scripts":{"dev":"next","build":"next build","start":"next start"},"dependencies":{"comlink":"^4.2.0","next":"9.1.1","react":"^16.13.0","react-dom":"^16.13.0"},"devDependencies":{"webpack":"^4.42.0","worker-loader":"^2.0.0"},"readme":"ERROR: No README data found!","_id":"simple-next@1.0.0"}
